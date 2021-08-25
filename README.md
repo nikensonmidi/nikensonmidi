@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikensonmidi
+- 👀 I’m interested in .Net5+ Angular2 and technologies associated with those frameworks
+- 🌱 I’m currently learning Blazor server, Identity Server4, clean architecture and event based architecture
+- 💞️ I’m looking to collaborate on .Net libraries that can enable Blazor to work with NativeScript
+- 📫 you can reach me at nikensonmidi@gmail.com
