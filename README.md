@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @nikensonmidi
-- 👀 I’m interested in .Net5+ Angular2 and technologies associated with those frameworks
-- 🌱 I’m currently learning Blazor server, Identity Server4, clean architecture and event based architecture
-- 💞️ I’m looking to collaborate on .Net libraries that can enable Blazor to work with NativeScript
+- 👋 Hello there, I am Nikenson (Nik) Midi
+- I have experience in .Net frameworks, SQL server, Angular2, Blazor, Azure Devops, and other ETL technologies such as Mulesoft. I am mostly interested in real time web apps.
 - 📫 you can reach me at nikensonmidi@gmail.com
