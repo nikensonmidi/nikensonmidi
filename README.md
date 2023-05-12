@@ -1,3 +1,3 @@
 - 👋 Hello there, I am Nikenson (Nik) Midi
-- I have experience in .Net frameworks, SQL server, Angular2, Blazor, Azure Devops, and other ETL technologies such as Mulesoft. I am mostly interested in real time web apps.
+- I have experience in .Net frameworks, SQL server, Angular2, Blazor, Azure Devops, and ETL technologies such as Mulesoft. I am mostly interested in real time web apps.
 - 📫 you can reach me at nikensonmidi@gmail.com
