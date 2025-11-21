@@ -1,3 +1,6 @@
-- 👋 Hello there, I am Nikenson (Nik) Midi
-- I have experience in .Net frameworks, SQL server, Angular2, Blazor, Azure Devops, and ETL technologies such as Mulesoft. I am mostly interested in real time web apps.
-- 📫 you can reach me at nikensonmidi@gmail.com
+🚀 Hello there, I’m Nikenson (Nik) Midi
+
+I’m a software engineer and emerging cloud architect currently focused on building production-grade AWS systems using Django, TypeScript, CDK, and GitLab/GitHub CI/CD.
+My current interests include cloud migration patterns, event-driven architectures, container orchestration, and building reusable infrastructure frameworks.
+
+📫 Reach me at: nikensonmidi@gmail.com
