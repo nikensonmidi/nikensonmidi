@@ -6,11 +6,11 @@ Focused on the intersection of scalable backend logic and automated infrastructu
 
 Current Focus:
 
-    Refactoring monolithic systems to distributed serverless architectures.
+ * Refactoring monolithic systems to distributed serverless architectures.
 
-    Implementing Infrastructure-as-Code (IaC) patterns to eliminate configuration drift.
+ * Implementing Infrastructure-as-Code (IaC) patterns to eliminate configuration drift.
 
-    Building type-safe, event-driven systems with AWS.
+ * Building type-safe, event-driven systems with AWS.
 
 🌐 https://www.waney93.com
 
